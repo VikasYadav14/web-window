@@ -1,0 +1,12 @@
+{
+  "name": "web-window",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "Vikas Yadav",
+  "license": "ISC"
+}
